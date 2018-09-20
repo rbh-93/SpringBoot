@@ -1,0 +1,14 @@
+package rohan.demo;
+
+import org.springframework.boot.SpringBootConfiguration;
+
+@ SpringBootApplication
+public class ApiApp {
+
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
